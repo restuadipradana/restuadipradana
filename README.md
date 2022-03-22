@@ -24,13 +24,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-### All repos
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=restuadipradana&skills=C#,Arduino,SCSS,TypeScript&show-other-skills=true"
-/>
-
-### Public repos
-
-![stats][]
-Stats by [tipsy/profile-summary-for-github][]
