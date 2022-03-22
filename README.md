@@ -23,3 +23,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restuadipradana&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
 </a>
 </p>
+
+### All repos
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=restuadipradana&skills=C#,Arduino,SCSS,TypeScript&show-other-skills=true"
+/>
+
+### Public repos
+
+![stats][]
+Stats by [tipsy/profile-summary-for-github][]
